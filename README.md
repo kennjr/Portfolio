@@ -1,23 +1,18 @@
 # My Portfolio
 #### This is a site dedicated to documenting my coding work/journey, 11/05/2021
-#### By **{List of contributors}**
+#### By **Kennjr**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+This is a simple webpage with info about kennjr the developer, nothing fancy just a simple site built with HTML and CSS.
 ## Setup/Installation Requirements
 * Clone the repo :{git clone https://github.com/kennjr/Portfolio.git}
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+* No server or dependencies needed to run the code.
 ## Live link
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+We don't have any known bugs.
 ## Technologies Used
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+This project has been written in HTML and CSS.
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+If you run into any issues with the code you can contribute to the project, reporting the issue and probably suggesting a fix.
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-This is under the [MIT](LICENSE) license
-Copyright (c) {year} **Kennjr**
+This software is under the [MIT](LICENSE) license
+Copyright (c) {2021} 
