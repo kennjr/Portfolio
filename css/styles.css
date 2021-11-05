@@ -67,7 +67,10 @@
     align-items: center;
     justify-content: center;
 }
-.projects_list li{
+.projects_list img{
+    width: 80%;
+}
+.projects_text li{
     padding: 5px;
     font-size: 18px;
 }
@@ -87,4 +90,11 @@
 
 .projects_text h2{
     text-shadow: 4px 4px 4px #aaa;
+}
+
+.skills{
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
