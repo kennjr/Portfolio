@@ -67,14 +67,10 @@
     align-items: center;
     justify-content: center;
 }
-
-.projects_list img{
-    width: 50%;
-    justify-content: center;
-    align-self: center;
-    color: #525252;
+.projects_list li{
+    padding: 5px;
+    font-size: 18px;
 }
-
 .projects_list{
     width: 50%;
     justify-content: center;
