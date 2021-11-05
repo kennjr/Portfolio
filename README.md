@@ -1,10 +1,10 @@
-# {Application Name}
-#### {Brief description of application}, {Date of current version}
+# My Portfolio
+#### This is a site dedicated to documenting my coding work/journey, 11/05/2021
 #### By **{List of contributors}**
 ## Description
 {This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
 ## Setup/Installation Requirements
-* Clone the repo {git clone https://github.com/jonnygovish/cookie-recipe.git}
+* Clone the repo :{git clone https://github.com/kennjr/Portfolio.git}
 * to list setup instructions
 * in a simple
 * easy-to-understand
@@ -20,4 +20,4 @@
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
 This is under the [MIT](LICENSE) license
-Copyright (c) {year} **{List of contributors or company name}**
+Copyright (c) {year} **Kennjr**
