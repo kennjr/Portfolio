@@ -1,6 +1,7 @@
 /* Background color for the navigation bar */
 .topnav {
     background-color: #ebebeb;
+    border-radius: 10px;
     overflow: hidden;
     text-align: end;
     padding: 15px;
@@ -25,4 +26,69 @@
 .topnav a.active {
     background-color: #04AA6D;
     color: white;
+}
+
+.home img{
+    float: right;
+    background-color: #000;
+}
+
+.home h2{
+    float: left;
+    color: #525252;
+}
+
+.home_text p{
+    float: left;
+    color: #525252;
+    font-size: 24px;
+    width: 80%;
+}
+
+.home_text{
+    width: 50%;
+    text-align: start;
+}
+
+.home_img{
+    width: 50%;
+}
+
+.home{
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.projects{
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.projects_list img{
+    width: 50%;
+    justify-content: center;
+    align-self: center;
+    color: #525252;
+}
+
+.projects_list{
+    width: 50%;
+    justify-content: center;
+    align-self: center;
+}
+
+.projects_text{
+    width: 50%;
+    float: left;
+    color: #525252;
+    font-size: 24px;
+    width: 80%;
+}
+
+.projects_text h2{
+    text-shadow: 4px 4px 4px #aaa;
 }
