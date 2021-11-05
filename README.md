@@ -7,6 +7,7 @@ This is a simple webpage with info about kennjr the developer, nothing fancy jus
 * Clone the repo :{git clone https://github.com/kennjr/Portfolio.git}
 * No server or dependencies needed to run the code.
 ## Live link
+https://kennjr.github.io/Portfolio
 ## Known Bugs
 The navigation bar isn't functioning as expected
 ## Technologies Used
