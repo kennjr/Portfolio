@@ -8,7 +8,7 @@ This is a simple webpage with info about kennjr the developer, nothing fancy jus
 * No server or dependencies needed to run the code.
 ## Live link
 ## Known Bugs
-We don't have any known bugs.
+The navigation bar isn't functioning as expected
 ## Technologies Used
 This project has been written in HTML and CSS.
 ## Support and contact details
