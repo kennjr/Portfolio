@@ -28,109 +28,135 @@
     color: white;
 }
 
-.home img{
-    float: right;
-    background-color: #000;
-}
-
-.home h2{
-    float: left;
-    color: #525252;
-}
-
-.home_text p{
-    float: left;
-    color: #525252;
-    font-size: 24px;
-    width: 80%;
-}
-
-.home_text{
-    width: 50%;
-    text-align: start;
-}
-
-.home_img{
-    width: 50%;
-}
-
-.home{
-    padding: 20px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.projects{
-    padding: 20px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-.projects_list img{
-    width: 80%;
-}
-.projects_text li{
-    padding: 5px;
-    font-size: 18px;
-}
-.projects_list{
-    width: 50%;
-    justify-content: center;
+@media screen 
+  and (min-width: 1200px) 
+  and (max-width: 1600px){
+    .home img{
+        float: right;
+        background-color: #000;
+    }
     
-}
-
-.projects_text{
-    width: 50%;
-    float: left;
-    color: #525252;
-    font-size: 24px;
-    width: 80%;
-}
-
-.projects_text h2{
-    text-shadow: 4px 4px 4px #aaa;
-}
-
-.skills{
-    padding: 20px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.skills_text h2{
-    color: #525252;
-    text-shadow: 4px 4px 4px #aaa;
-}
-
-.skills_text p{
-    float: left;
-    color: #525252;
-    font-size: 24px;
-    width: 80%;
-}
-
-.skills_text{
-    width: 50%;
-    text-align: start;
-    float: right;
-}
-
-.skills img{
-    float: right;
-}
-
-.interests{
-    padding: 20px;
-    display: flex;
-    align-items: center;
-    justify-content: center;   
-}
-
-.background{
-    padding: 20px;
-    display: flex;
-    align-items: center;
-    justify-content: center;   
+    .home h2{
+        float: left;
+        color: #525252;
+    }
+    
+    .home_text p{
+        float: left;
+        color: #525252;
+        font-size: 24px;
+        width: 80%;
+    }
+    
+    .home_text{
+        width: 50%;
+        text-align: start;
+    }
+    
+    .home_img{
+        width: 50%;
+    }
+    
+    .home{
+        padding: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .projects{
+        padding: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .projects_list img{
+        width: 80%;
+    }
+    .projects_text li{
+        padding: 5px;
+        font-size: 18px;
+    }
+    .projects_list{
+        width: 50%;
+        justify-content: center;
+        
+    }
+    
+    .projects_text{
+        width: 50%;
+        float: left;
+        color: #525252;
+        font-size: 24px;
+        width: 80%;
+    }
+    
+    .projects_text h2{
+        text-shadow: 4px 4px 4px #aaa;
+    }
+    
+    .skills{
+        padding: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .skills_text h2{
+        color: #525252;
+        text-shadow: 4px 4px 4px #aaa;
+    }
+    
+    .skills_text p{
+        float: left;
+        color: #525252;
+        font-size: 24px;
+        width: 80%;
+    }
+    
+    .skills_text{
+        width: 50%;
+        text-align: start;
+        float: right;
+    }
+    
+    .skills img{
+        float: right;
+    }
+    
+    .interests{
+        padding: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;   
+    }
+    
+    .background{
+        padding: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;   
+    }
+    
+    .background_text{
+        width: 50%;
+        text-align: start;
+        float: right;
+    }
+    
+    .background img{
+        float: right;
+    }
+    
+    .background_text h2{
+        color: #525252;
+        text-shadow: 4px 4px 4px #aaa;
+    }
+    
+    .background_text p{
+        float: left;
+        color: #525252;
+        font-size: 24px;
+        width: 80%;
+    }
 }
